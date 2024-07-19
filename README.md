@@ -1,8 +1,8 @@
 # ML Classification model for EEG Recordings
 A ML classification model for classifying patients as ADHD or no ADHD based on their EEG recordings 
 
-Dataset reference:\n
-Ali Motie Nasrabadi, Armin Allahverdy, Mehdi Samavati, Mohammad Reza Mohammadi, June 10, 2020, "EEG data for ADHD / Control children", IEEE Dataport, [more information here](https://ieee-dataport.org/open-access/eeg-data-adhd-control-children)\n
+Dataset reference:
+Ali Motie Nasrabadi, Armin Allahverdy, Mehdi Samavati, Mohammad Reza Mohammadi, June 10, 2020, "EEG data for ADHD / Control children", IEEE Dataport, [more information here](https://ieee-dataport.org/open-access/eeg-data-adhd-control-children)
 
 ## Abstract [more information](https://ieee-dataport.org/open-access/eeg-data-adhd-control-children)
 Participants were 61 children with ADHD and 60 healthy controls (boys and girls, ages 7-12). The ADHD children were diagnosed by an experienced psychiatrist to DSM-IV criteria, and have taken Ritalin for up to 6 months. None of the children in the control group had a history of psychiatric disorders, epilepsy, or any report of high-risk behaviors.

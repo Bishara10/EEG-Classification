@@ -12,4 +12,9 @@ EEG recording was performed based on 10-20 standard by 19 channels (Fz, Cz, Pz, 
 ### Preprocessing
 Dataset was preprocessed by applying BandPass filter for noise reduction in signal recordings for each channel.
 
+### Feature extraction
+Calculated Pearson correlation between every two channels for every patient.
+
+### Machine Learning model
+Utilized SVM model for classifying recordings as ADHD / Non-ADHD
 

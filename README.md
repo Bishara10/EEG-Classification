@@ -1,4 +1,4 @@
-# ML Classification model for EEG Recordings
+![image](https://github.com/user-attachments/assets/e577c043-463f-4c5d-ba13-548a6eb0d9e4)# ML Classification model for EEG Recordings
 A ML classification model for classifying patients as ADHD or no ADHD based on their EEG recordings 
 
 Dataset reference:
@@ -18,3 +18,6 @@ Calculated Pearson correlation between every two channels for every patient.
 ### Machine Learning model
 Utilized SVM model for classifying recordings as ADHD / Non-ADHD
 
+### Results
+Achieved 85% accuracy. However, the test was done on 10% of the dataset, considering the relatively small amount of patients.
+![image](https://github.com/user-attachments/assets/fc1ef355-a2a7-4241-aaaa-47a44bfe9683)

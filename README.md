@@ -21,6 +21,6 @@ Utilized SVM model for classifying recordings as ADHD / Non-ADHD
 
 
 ## Results
-Achieved 85% accuracy. However, the test was done on 10% of the dataset, considering the relatively small amount of patients.
+Achieved 85% accuracy. However, the test was done on 10% of the dataset, considering the relatively small amount of patients as well.
 
 ![image](https://github.com/user-attachments/assets/c0b1ee09-c5b5-4118-b988-4ead0e689437)

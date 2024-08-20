@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e577c043-463f-4c5d-ba13-548a6eb0d9e4)# ML Classification model for EEG Recordings
+# ML Classification model for EEG Recordings
 A ML classification model for classifying patients as ADHD or no ADHD based on their EEG recordings 
 
 Dataset reference:
